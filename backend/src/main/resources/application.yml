@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: ${SPRING_APP_NAME:Esoft-Bank-Backend}
+
+
+  security:
+    user:
+      name: ${SECURITY_USERNAME:admin}
+      password: ${SECURITY_PASSWORD:12345}
+
+
+
+logging:
+  level:
+    org:
+    springframework:
+    security: ${SPRING_SECURITY_LOG_LEVEL:TRACE}
