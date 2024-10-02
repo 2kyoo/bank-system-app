@@ -1,4 +1,4 @@
-package org.p2kyoo.eazy.bytes.sec01.controller;
+package org.p2kyoo.bank.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

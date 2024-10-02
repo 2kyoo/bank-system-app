@@ -1,4 +1,4 @@
-package org.p2kyoo.eazy.bytes.sec01;
+package org.p2kyoo.bank;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
